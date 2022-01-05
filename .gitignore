@@ -1,0 +1,5 @@
+config.py
+.git
+.idea
+__pycache__
+venv
